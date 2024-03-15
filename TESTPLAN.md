@@ -1,7 +1,7 @@
 ## Llista de classes de prova:
 #### Només els claudàtors tornen veritables:
 
-Per exemple, si tenim una funció que verifica si una seqüència de caràcters conté només claudàtors, aquesta funció hauria de tornar true per a seqüències com {}, [], o () i false per a seqüències com {a}, [1], o ( ).
+Per exemple, si tenim una funció que verifica si una seqüència de caràcters conté només claudàtors, aquesta funció hauria de tornar true per a seqüències com {}, [], o ().
 
 ---
 
